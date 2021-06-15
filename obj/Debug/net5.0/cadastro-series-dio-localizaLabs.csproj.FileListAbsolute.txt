@@ -1,0 +1,16 @@
+C:\Downloads\Localiza - DIO\cadastro-series-dio-localizaLabs\obj\Debug\net5.0\cadastro-series-dio-localizaLabs.csprojAssemblyReference.cache
+C:\Downloads\Localiza - DIO\cadastro-series-dio-localizaLabs\obj\Debug\net5.0\cadastro-series-dio-localizaLabs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Downloads\Localiza - DIO\cadastro-series-dio-localizaLabs\obj\Debug\net5.0\cadastro-series-dio-localizaLabs.AssemblyInfoInputs.cache
+C:\Downloads\Localiza - DIO\cadastro-series-dio-localizaLabs\obj\Debug\net5.0\cadastro-series-dio-localizaLabs.AssemblyInfo.cs
+C:\Downloads\Localiza - DIO\cadastro-series-dio-localizaLabs\obj\Debug\net5.0\cadastro-series-dio-localizaLabs.csproj.CoreCompileInputs.cache
+C:\Downloads\Localiza - DIO\cadastro-series-dio-localizaLabs\bin\Debug\net5.0\cadastro-series-dio-localizaLabs.exe
+C:\Downloads\Localiza - DIO\cadastro-series-dio-localizaLabs\bin\Debug\net5.0\cadastro-series-dio-localizaLabs.deps.json
+C:\Downloads\Localiza - DIO\cadastro-series-dio-localizaLabs\bin\Debug\net5.0\cadastro-series-dio-localizaLabs.runtimeconfig.json
+C:\Downloads\Localiza - DIO\cadastro-series-dio-localizaLabs\bin\Debug\net5.0\cadastro-series-dio-localizaLabs.runtimeconfig.dev.json
+C:\Downloads\Localiza - DIO\cadastro-series-dio-localizaLabs\bin\Debug\net5.0\cadastro-series-dio-localizaLabs.dll
+C:\Downloads\Localiza - DIO\cadastro-series-dio-localizaLabs\bin\Debug\net5.0\ref\cadastro-series-dio-localizaLabs.dll
+C:\Downloads\Localiza - DIO\cadastro-series-dio-localizaLabs\bin\Debug\net5.0\cadastro-series-dio-localizaLabs.pdb
+C:\Downloads\Localiza - DIO\cadastro-series-dio-localizaLabs\obj\Debug\net5.0\cadastro-series-dio-localizaLabs.dll
+C:\Downloads\Localiza - DIO\cadastro-series-dio-localizaLabs\obj\Debug\net5.0\ref\cadastro-series-dio-localizaLabs.dll
+C:\Downloads\Localiza - DIO\cadastro-series-dio-localizaLabs\obj\Debug\net5.0\cadastro-series-dio-localizaLabs.pdb
+C:\Downloads\Localiza - DIO\cadastro-series-dio-localizaLabs\obj\Debug\net5.0\cadastro-series-dio-localizaLabs.genruntimeconfig.cache
